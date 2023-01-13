@@ -2,7 +2,7 @@
 #include "17-binary_tree_sibling.c"
 
 /**
- * binary_tre_uncle - function that finds the uncle of a node
+ * binary_tree_uncle - function that finds the uncle of a node
  * @node: node to check if the node have uncle
  *
  * Return: uncle
